@@ -1,0 +1,22 @@
+{
+    "tasks": [
+        {
+            "id": 1,
+            "text": "primera tarea asd",
+            "day": "fecha ssd",
+            "reminder": true
+        },
+        {
+            "id": 2,
+            "text": "segunda tarea asd",
+            "day": "fecha ssd",
+            "reminder": true
+        },
+        {
+            "id": 3,
+            "text": "hola ésto vino desde mi base de datos :o",
+            "day": "fecha ssd",
+            "reminder": false
+        }
+    ]
+}
