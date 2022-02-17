@@ -1,3 +1,6 @@
 <footer>
-    <a routerLink="/about">About this task tracker</a>
+    <a 
+        routerLink="/about"
+        *ngIf = "hasRoute('/')"
+        >About this task tracker</a>
 </footer>
